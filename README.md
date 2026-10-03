@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FitFlow redesign
 
 Coursework technology-selection and architecture starter for IT3060 Lab Exercise 05.
@@ -23,3 +24,6 @@ Run `python scripts/validate_docs.py` (Python 3, standard library only). GitHub 
 
 Do not upload signed consent forms, raw participant notes, photos, tokens or sensitive health records.
     
+=======
+# fitflow-redesign-anupa
+>>>>>>> 78c5d7fa653666ffabb24e8895d254dd79c937f8
